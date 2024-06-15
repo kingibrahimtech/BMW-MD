@@ -1,22 +1,22 @@
 {
-    "name": "FLASH-MD",
+    "name": "BMW-MD",
   "version": "2.0.0",
   "description": "",
-  "main": "flash.js",
+  "main": "ibrahim.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node flash.js",
+    "start": "node ibrahim.js",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "Flash-Md",
+    "Bmw-Md",
     "whatsapp",
     "whatsapp-bot",
-    "franceking1"
+    "ibrahimaitech"
   ],
-  "author": "France King",
+  "author": "Ibrahim Adams",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
