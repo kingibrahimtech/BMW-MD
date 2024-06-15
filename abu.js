@@ -147,7 +147,7 @@ setTimeout(() => {
     const _0x30fb25 = {
       "version": _0x24c202,
       "logger": pino(_0x5f4fc6),
-      "browser": ["Flash-Md", "safari", "1.0.0"],
+      "browser": ["Bmw-Md", "safari", "1.0.0"],
       "printQRInTerminal": true,
       "fireInitQueries": false,
       "shouldSyncHistoryMessage": true,
@@ -1106,7 +1106,7 @@ setTimeout(() => {
           };
           var _0x3d8f7d = "Levelup Message detected, \n";
           const _0x55faa3 = {
-            "pack": "Flash-Md",
+            "pack": "Bmw-Md",
             "author": conf.OWNER_NAME,
             "type": StickerTypes.FULL,
             "categories": ["🤩", "🎉"],
@@ -1223,7 +1223,7 @@ setTimeout(() => {
           };
           var _0x3d8f7d = "badword detected, \n";
           const _0x2c1891 = {
-            "pack": "Flash-Md",
+            "pack": "Bmw-Md",
             "author": conf.OWNER_NAME,
             "type": StickerTypes.FULL,
             "categories": ["🤩", "🎉"],
@@ -1340,7 +1340,7 @@ setTimeout(() => {
           };
           var _0x3d8f7d = "badword detected, \n";
           const _0x1d8515 = {
-            "pack": "Flash-Md",
+            "pack": "Bmw-Md",
             author: conf.OWNER_NAME,
             "type": StickerTypes.FULL,
             categories: ["🤩", "🎉"],
@@ -1457,7 +1457,7 @@ setTimeout(() => {
           };
           var _0x3d8f7d = "badword detected, \n";
           const _0x535dc3 = {
-            "pack": "Flash-Md",
+            "pack": " Bmw-Md",
             "author": conf.OWNER_NAME,
             "type": StickerTypes.FULL,
             "categories": ["🤩", "🎉"],
@@ -1574,7 +1574,7 @@ setTimeout(() => {
           };
           var _0x3d8f7d = "badword detected, \n";
           const _0x5bfd9b = {
-            "pack": "Flash-Md",
+            "pack": "Bmw-Md",
             "author": conf.OWNER_NAME,
             "type": StickerTypes.FULL,
             "categories": ["🤩", "🎉"],
@@ -1700,7 +1700,7 @@ setTimeout(() => {
           };
           var _0x3d8f7d = "bot detected, \n";
           const _0x31c926 = {
-            "pack": "Flash-Md",
+            "pack": "Bmw-Md",
             "author": conf.OWNER_NAME,
             "type": StickerTypes.FULL,
             "categories": ["🤩", "🎉"],
@@ -1973,7 +1973,7 @@ setTimeout(() => {
           }
           console.log("Commands successfully Loaded ✅");
           if (conf.DP.toLowerCase() === "on") {
-            let _0x180b3b = "*☢️𝐅𝐋𝐀𝐒𝐇-𝐌𝐃 is Connected☢️*\n                \n❒ 𝐂𝐑𝐄𝐀𝐓𝐎𝐑: 𝐅𝐫𝐚𝐧𝐜𝐞 𝐊𝐢𝐧𝐠  \n❒ PREFIX: " + prefixe + "\n❒ MODE: " + _0xc6435b + " \n❒ COMMANDS: " + evt.cm.length + "\n❒ CREATED: *22.2.2024*︎\n\n___________________________________\n   \n \n╔═════◇\n║◇ *KEEP USING FLASH-MD*\n╚════════════════>\n___________________________________ \n\n*THE  FLASH  MULTI  DEVICE*";
+            let _0x180b3b = "*BMW-XMD ONLINE*\n                \n❒ 𝐂𝐑𝐄𝐀𝐓𝐎𝐑: *Ibrahim Adams*  \n❒ PREFIX: " + prefixe + "\n❒ MODE: " + _0xc6435b + " \n❒ COMMANDS: " + evt.cm.length + "\n❒ CREATED: *22.2.2024*︎\n\n___________________________________\n   \n \n╔═════◇\n║◇ *KEEP USING FLASH-MD*\n╚════════════════>\n___________________________________ \n\n*THE  FLASH  MULTI  DEVICE*";
             const _0x3ca8ee = {
               "text": _0x180b3b
             };
