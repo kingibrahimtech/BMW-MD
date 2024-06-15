@@ -239,7 +239,7 @@ setTimeout(() => {
         };
         _0x3e9e76.sendMessage(_0x533869, _0x3bf416, _0x307b44);
       }
-      console.log("\t [][]...{FLASH-MD}...[][]");
+      console.log("\t [][]...{BMW-XMD}...[][]");
       console.log("=========== New message ===========");
       if (_0x3ff4e1) {
         console.log("message from the group : " + _0x395f30);
@@ -521,7 +521,7 @@ setTimeout(() => {
           };
           var _0x3d8f7d = "another group link is detected, \n";
           const _0x4b8849 = {
-            "pack": "Flash-Md",
+            "pack": "Bmw-Md",
             "author": conf.OWNER_NAME,
             type: StickerTypes.FULL,
             categories: ["🤩", "🎉"],
@@ -638,7 +638,7 @@ setTimeout(() => {
           };
           var _0x3d8f7d = "link detected, \n";
           const _0x43538d = {
-            pack: "Flash-Md",
+            pack: "Bmw-Md",
             "author": conf.OWNER_NAME,
             type: StickerTypes.FULL,
             "categories": ["🤩", "🎉"],
@@ -753,9 +753,9 @@ setTimeout(() => {
             id: _0x1db3b8.key.id,
             participant: _0x33816f
           };
-          var _0x3d8f7d = "FLASH-MD has detected another bot☠️, \n";
+          var _0x3d8f7d = "BMW-MD has detected another bot☠️, \n";
           const _0x3d8f3 = {
-            pack: "Flash-Md",
+            pack: "Bmw-Md",
             "author": conf.OWNER_NAME,
             "type": StickerTypes.FULL,
             "categories": ["🤩", "🎉"],
@@ -872,7 +872,7 @@ setTimeout(() => {
           };
           var _0x3d8f7d = "badword detected, \n";
           const _0x41d398 = {
-            "pack": "Flash-Md",
+            "pack": "Bmw-Md",
             author: conf.OWNER_NAME,
             type: StickerTypes.FULL,
             "categories": ["🤩", "🎉"],
@@ -989,7 +989,7 @@ setTimeout(() => {
           };
           var _0x3d8f7d = "badword detected, \n";
           const _0x3298b5 = {
-            pack: "Flash-Md",
+            pack: "Bmw-Md",
             author: conf.OWNER_NAME,
             type: StickerTypes.FULL,
             "categories": ["🤩", "🎉"],
