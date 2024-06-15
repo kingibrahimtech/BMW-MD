@@ -1,9 +1,9 @@
 {
-  "name":"FLASH-MD",
-  "description":"An easy and simple WhatsApp bot developed by France King",
+  "name":"BMW-X5MD",
+  "description":"An easy and simple WhatsApp bot developed by Ibrahim Adams",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
-  "repository":"https://github.com/franceking1/Flash-Md",
+  "logo":"https://telegra.ph/file/7cd9d893413bffb0c5bdb.jpg",
+  "repository":"https://github.com/ibrahimaitech/BMW-MD",
   "succes_url":"/",
 "stack":"heroku-22",
 
@@ -49,7 +49,7 @@
      "BOT_MENU_LINKS" : {
 
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
+      "value":"https://telegra.ph/file/ca5688b76af3e964f963b.jpg",
       "required":false
 
      },
@@ -81,14 +81,14 @@
 
     "desc": "Your Name",
     "required": false,
-    "value": "France King"
+    "value": "𝑴𝒓 𝑰𝒃𝒓𝒂𝒉𝒊𝒎"
   },
     "OWNER_NUMBER":
   {
 
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254751284190"
+    "value": "254739937062,254710772666"
   },
     "WARN_COUNT":
   {
