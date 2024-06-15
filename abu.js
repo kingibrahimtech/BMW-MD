@@ -1973,7 +1973,7 @@ setTimeout(() => {
           }
           console.log("Commands successfully Loaded ✅");
           if (conf.DP.toLowerCase() === "on") {
-            let _0x180b3b = "*BMW-XMD ONLINE*\n                \n❒ 𝐂𝐑𝐄𝐀𝐓𝐎𝐑: *Ibrahim Adams*  \n❒ PREFIX: " + prefixe + "\n❒ MODE: " + _0xc6435b + " \n❒ COMMANDS: " + evt.cm.length + "\n❒ CREATED: *22.2.2024*︎\n\n___________________________________\n   \n \n╔═════◇\n║◇ *KEEP USING FLASH-MD*\n╚════════════════>\n___________________________________ \n\n*THE  FLASH  MULTI  DEVICE*";
+            let _0x180b3b = "*BMW-XMD ONLINE*\n                \n❒ 𝐂𝐑𝐄𝐀𝐓𝐎𝐑: *Ibrahim Adams*  \n❒ PREFIX: " + prefixe + "\n❒ MODE: " + _0xc6435b + " \n❒ COMMANDS: " + evt.cm.length + "\n❒ CREATED: *22.2.2024*︎\n\n___________________________________\n   \n \n╔═════◇\n║◇ *Made by Ibrahim Adams*\n╚════════════════>\n___________________________________ \n\n*BMW-XMD*";
             const _0x3ca8ee = {
               "text": _0x180b3b
             };
