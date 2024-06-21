@@ -2,10 +2,10 @@
     "name": "BMW-MD",
   "version": "2.0.0",
   "description": "",
-  "main": "ibrahim.js",
+  "main": " flash.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ibrahim.js",
+    "start": "node flash.js",
     "c": "tsc"
   },
   "keywords": [
